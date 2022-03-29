@@ -1,0 +1,1 @@
+REG DELETE HKEY_CURRENT_USER\SOFTWARE\Macromedia\FlashPlayer /va /f
